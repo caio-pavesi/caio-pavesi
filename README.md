@@ -1,14 +1,14 @@
-### Hi there 👋
+Creative developer with over 2+ years of experience in Python, SQL, and Excel, specializing in automating processes to enhance productivity and reduce inefficiencies. My journey began in the automotive industry, where I cultivated a passion for optimizing workflows, which has since evolved into building automated systems across various industries, including financial services.
 
-I'm an engineering student that's crazy about improving work performance through automation jobs, especially in finance where I feel at home where we have loads of data to work on. I specialize in:
-* Microsoft 365 and its wide suite of apps.
-* Programming languages, such as Python, to do automation and analysis.
-* Financial concepts, to better understand companies in financial markets.
+Key Achievements:
+• Reduced Process Time by 50%: By restructuring Python scripts with multiprocessing and integrating them with SQL Server and Microsoft 365 at Manchester Investimentos, I significantly reduced workflow times.
+• Reduced Inventory Errors by 99.7%: Implemented digitalized inventory controls at a BMW dealership, minimizing errors and streamlining inventory management.
+• Saved 2.5 hours weekly: Automated repetitive administrative tasks using Python and Power Automate.
 
-In other words, I'm a financial operations generalist who can improve financial departments to a more smooth way of operating.
+Technical Skills: Python, Django, SQL, SQL Server, PostgreSQL, Microsoft 365, Power Automate
 
-I have chosen this career path through a combination of 2 years working as an apprentice in car factories where I developed a good view of process improvement, 3 years (and counting) as a consultant for small companies in administrative processes + 1 year as a volunteer student in administrative operations on a project at my university. The consultancy I provide focuses on developing management systems with tools that you probably use (Google Workspace, Microsoft 365) to optimize how your company/department works.
+I am passionate about creating automated solutions that solve complex problems and streamline operations. Currently pursuing a degree in Production and Systems Engineering, I’m always looking for new ways to leverage my development skills to optimize processes and workflows.
 
-Viewing a lot of companies in a wide range of sectors, I have been able to develop an open mind to innovation, helping me improve my work and colleagues! Feel free to contact me here on LinkedIn
+If you’re seeking a developer who specializes in automation and innovation, let’s connect to explore how I can help optimize your processes!
 
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
