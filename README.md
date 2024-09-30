@@ -1,9 +1,9 @@
 Creative developer with over 2+ years of experience in Python, SQL, and Excel, specializing in automating processes to enhance productivity and reduce inefficiencies. My journey began in the automotive industry, where I cultivated a passion for optimizing workflows, which has since evolved into building automated systems across various industries, including financial services.
 
 Key Achievements:
-• Reduced Process Time by 50%: By restructuring Python scripts with multiprocessing and integrating them with SQL Server and Microsoft 365 at Manchester Investimentos, I significantly reduced workflow times.
-• Reduced Inventory Errors by 99.7%: Implemented digitalized inventory controls at a BMW dealership, minimizing errors and streamlining inventory management.
-• Saved 2.5 hours weekly: Automated repetitive administrative tasks using Python and Power Automate.
+</br>• Reduced Process Time by 50%: By restructuring Python scripts with multiprocessing and integrating them with SQL Server and Microsoft 365 at Manchester Investimentos, I significantly reduced workflow times.
+</br>• Reduced Inventory Errors by 99.7%: Implemented digitalized inventory controls at a BMW dealership, minimizing errors and streamlining inventory management.
+</br>• Saved 2.5 hours weekly: Automated repetitive administrative tasks using Python and Power Automate.
 
 Technical Skills: Python, Django, SQL, SQL Server, PostgreSQL, Microsoft 365, Power Automate
 
