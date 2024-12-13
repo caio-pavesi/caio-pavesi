@@ -11,5 +11,4 @@ I am passionate about creating automated solutions that solve complex problems a
 
 If you’re seeking a developer who specializes in automation and innovation, let’s connect to explore how I can help optimize your processes!
 
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 [![Linkedln](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=White)](https://www.linkedin.com/in/caiopavesi/)
